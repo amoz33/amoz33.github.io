@@ -207,7 +207,7 @@
                             <P class="subtitle">Studied Computer Science at Osun State Polytechnic, Iree, Osun State, Nigeria.</P>
                             <hr>
                             <h6 class="title text-danger">2003 - 2009</h6>
-                            <P>Senior Secondary Certificate Examination</P>
+                            <P><b>Senior Secondary Certificate Examination (SSCE)</b></P>
                             <P class="subtitle">Went to Secondary School (High School) in Bolade Grammar School, Oshodi, Lagos State, Nigeria.</P>
                             
                         </div>

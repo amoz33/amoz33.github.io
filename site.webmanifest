@@ -1,0 +1,13 @@
+{
+  "name": "Oluwatosin Amos Adegoke | Web Developer, Web Designer & Graphic Designer",
+  "short_name": "Tosin Adegoke",
+  "description": "Web Developer, Web Designer and Graphic Designer in Abuja, Nigeria.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0A1A3F",
+  "icons": [
+    {"src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

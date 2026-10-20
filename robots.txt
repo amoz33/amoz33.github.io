@@ -1,0 +1,5 @@
+# Allow all search engines (Google, Bing, Yahoo, DuckDuckGo, Yandex, Baidu, etc.)
+User-agent: *
+Allow: /
+
+Sitemap: https://amoz33.github.io/sitemap.xml
